@@ -1,3 +1,8 @@
+.threeboxes {
+  border: 3px solid white;
+  width: 990px;
+  height: 204px;
+}
 .pic {
   border: 2px solid rgb(247, 244, 244);
   width: 300px;
